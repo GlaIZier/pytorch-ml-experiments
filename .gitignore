@@ -1,0 +1,26 @@
+# editor temp files
+*~
+.*.sw?
+.sw?
+#*#
+DEADJOE
+
+# IDEA project settings
+.idea
+*.ipr
+*.iws
+*.iml
+
+# Mac
+.DS_Store
+
+#python
+.venv/
+.conda
+.logs/
+.ipynb_checkpoints/
+__pycache__
+
+# ml
+data-ignored/
+model-ignored/
