@@ -4,6 +4,7 @@ jupyterlab
 ipywidgets
 tqdm
 matplotlib
+torch
 
 absl-py==0.12.0 # tensorflow compatibility
 # tested python 3.10.4
