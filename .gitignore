@@ -20,7 +20,6 @@ DEADJOE
 .logs/
 .ipynb_checkpoints/
 __pycache__
-.python-version
 
 # ml
 data-ignored/
