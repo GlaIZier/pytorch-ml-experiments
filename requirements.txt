@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+jupyterlab
+ipywidgets
+tqdm
+matplotlib
+torch
+torchtext
+
+# tested python 3.10.4
