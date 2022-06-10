@@ -6,5 +6,6 @@ tqdm
 matplotlib
 torch
 torchtext
+torchdata
 
 # tested python 3.10.4
